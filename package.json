@@ -1,0 +1,23 @@
+{
+  "name": "ItalianVocabulary",
+  "version": "0.0.1",
+  "description": "Web app to practice Italian vocabulary and build tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-compass": "^2.0.4",
+    "gulp-concat": "^2.5.2",
+    "gulp-connect": "^2.2.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jsonminify": "0.0.2",
+    "gulp-minify-html": "^1.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-util": "^3.0.4"
+  }
+}

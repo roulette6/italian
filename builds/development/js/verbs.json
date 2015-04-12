@@ -1,0 +1,26 @@
+{
+  "dare": {
+      "io": "do",
+      "tu": "dai",
+      "lui_lei": "da",
+      "noi": "diamo",
+      "voi": "date",
+      "loro": "danno"
+    },
+  "fare": {
+      "io": "faccio",
+      "tu": "fai",
+      "lui_lei": "fa",
+      "noi": "facciamo",
+      "voi": "fate",
+      "loro": "fanno"
+  },
+  "stare": {
+      "io": "sto",
+      "tu": "stai",
+      "lui_lei": "sta",
+      "noi": "stiamo",
+      "voi": "state",
+      "loro": "stanno"
+  }
+}

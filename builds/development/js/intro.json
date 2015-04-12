@@ -1,0 +1,140 @@
+{
+  "greetings": [
+    {
+      "italian": "ciao",
+      "english": "hello and goodbye (informal)"
+    },
+    {
+      "italian": "salve",
+      "english": "hello/goodbye (more formal than ciao but neutral)"
+    },
+    {
+      "italian": "buongiorno",
+      "english": "good day (before 2 PM)"
+      },
+    {
+      "italian": "buonasera",
+      "english": "good afternoon (after 2 PM); good evening"
+    },
+    {
+      "italian": "buonanotte",
+      "english": "good night (when parting to go to bed)"
+    },
+    {
+      "italian": "buona giornatta",
+      "english": "have a good day!"
+    },
+    {
+      "italian": "buona serata!",
+      "english": "have a good evening!"
+    },
+    {
+      "italian": "arrivederci",
+      "english": "goodbye"
+    }
+  ],
+
+  "replies_to_greetings": [
+    {
+      "italian": "come sta?",
+      "english": "benissimo, grazie, e lei?"
+    },
+    {
+      "italian": "come stai?",
+      "english": "bene, grazie, e tu?"
+    },
+    {
+      "italian": "come va?",
+      "english": "non c'è male"
+    }
+  ],
+
+  "specifying_reunion": [
+    {
+      "italian": "a presto",
+      "english": "see you soon"
+    },
+    {
+      "italian": "a dopo",
+      "english": "see you later"
+    },
+    {
+      "italian": "a domani",
+      "english": "see you tomorrow"
+    },
+    {
+      "italian": "ci vediamo",
+      "english": "see you"
+    },
+    {
+      "italian": "ci vediamo domani",
+      "english": "see you tomorrow"
+    }
+  ],
+
+  "introducing_yourself": [
+    {
+      "italian": "mi chiamo josue",
+      "english": "my name's Josue"
+    },
+    {
+      "italian": "e tu come ti chiami?",
+      "english": "and what's your name?"
+    },
+    {
+      "italian": "piacere",
+      "english": "nice to meet you"
+    },
+    {
+      "italian": "lieto di conoscerla",
+      "english": "pleased to meet you"
+    },
+    {
+      "italian": "il piacere è tutto mio",
+      "english": "the pleasure is all mine"
+    },
+    {
+      "italian": "di dov'è?",
+      "english": "where are you from? (formal)"
+    },
+    {
+      "italian": "sono domenicano",
+      "english": "I'm Dominican"
+    },
+    {
+      "italian": "sei qui per la prima volta?",
+      "english": "is this your first time?"
+    }
+  ],
+
+  "invitations": [
+    {
+      "italian": "andiamo a cena insieme?",
+      "english" : "Shall we go to dinner together?"
+    },
+    {
+      "italian": "posso invitarti stasera?",
+      "english" : "Can I invite you for this evening?"
+    },
+    {
+      "italian": "volentieri, grazie",
+      "english" : "I'd like to, thank you"
+    },
+    {
+      "italian": "con piacere, grazie",
+      "english" : "with pleasure, thank you"
+    },
+    {
+      "italian": "mi dispiace ma non posso",
+      "english" : "I'm sorry, but I can't"
+    },
+    {
+      "italian": "magari un'altra volta, grazie",
+      "english" : "perhaps another time"
+    },
+    {
+    "italian":   "mi dispiace, ho già un altro impegno",
+      "english" : "I'm sorry, but I have another appointment" 
+    }
+  ]
+}

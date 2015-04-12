@@ -1,0 +1,364 @@
+{
+  "numbers": [
+    {
+      "italian": "undici",
+      "english" : 11
+    },
+    {
+      "italian": "dodici",
+      "english" : 12
+    },
+    {
+      "italian": "tredici",
+      "english" : 13
+    },
+    {
+      "italian": "quattordici",
+      "english" : 14
+    },
+    {
+      "italian": "quindici",
+      "english" : 15
+    },
+    {
+      "italian": "sedici",
+      "english" : 16
+    },
+    {
+      "italian": "diciasette",
+      "english" : 17
+    },
+    {
+      "italian": "diciotto",
+      "english" : 18
+    },
+    {
+      "italian": "dicianove",
+      "english" : 19
+    },
+    {
+      "italian": "venti",
+      "english" : 20
+    },
+    {
+      "italian": "ventuno",
+      "english" : "21 (exception)"
+    },    
+    {
+      "italian": "ventidue",
+      "english" : 22
+    },
+    {
+      "italian": "ventotto",
+      "english" : "28 (exception)"
+    },
+    {
+      "italian": "trenta",
+      "english" : 30
+    },
+    {
+      "italian": "quaranta",
+      "english" : 40
+    },
+    {
+      "italian": "cinquanta",
+      "english" : 50
+    },
+    {
+      "italian": "sessanta",
+      "english" : 60
+    },
+    {
+      "italian": "settanta",
+      "english" : 70
+    },
+    {
+      "italian": "ottanta",
+      "english" : 80
+    },
+    {
+      "italian": "novanta",
+      "english" : 90
+    },
+    {
+      "italian": "cento",
+      "english" : 100
+    },
+    {
+      "italian": "duecento",
+      "english" : 200
+    },
+    {
+      "italian": "trecento",
+      "english" : 300
+    },
+    {
+      "italian": "quattrocento",
+      "english" : 400
+    },
+    {
+      "italian": "cinquecento",
+      "english" : 500
+    },
+    {
+      "italian": "seicento",
+      "english" : 600
+    },
+    {
+      "italian": "settecento",
+      "english" : 700
+    },
+    {
+      "italian": "ottocento",
+      "english" : 800
+    },
+    {
+      "italian": "novecento",
+      "english" : 900
+    },
+    {
+      "italian": "mille",
+      "english" : "1,000"
+    },
+    {
+      "italian": "duemila",
+      "english" : "2,000"
+    },
+    {
+      "italian": "un milione",
+      "english" : "1,000,000"
+    }
+  ],
+
+  "ordinals": [
+    {
+      "italian": "il primo/la prima",
+      "english": "the first"
+    },
+    {
+      "italian": "il secondo/la seconda",
+      "english": "the second"
+    },
+    {
+      "italian": "il terzo/la terza",
+      "english": "the third"
+    },
+    {
+      "italian": "il quarto/la quarta",
+      "english": "the fourth"
+    },
+    {
+      "italian": "il quinto/la quinta",
+      "english": "the fifth"
+    },
+    {
+      "italian": "il sesto/la sesta",
+      "english": "the sixth"
+    },
+    {
+      "italian": "il settimo/la settima",
+      "english": "the seventh"
+    },
+    {
+      "italian": "l'ottavo/l'ottava",
+      "english": "the eighth"
+    },
+    {
+      "italian": "il nono/la nona",
+      "english": "the ninth"
+    },
+    {
+      "italian": "il decimo/la decima",
+      "english": "the tenth"
+    },
+    {
+      "italian": "il tredicesimo",
+      "english": "the thirteenth"
+    },
+    {
+      "italian": "il ventesimo/la ventesima",
+      "english": "the twentieth"
+    },
+    {
+      "italian": "la terza strada a sinistra",
+      "english" : "the third street on the left"
+    },
+    {
+      "italian": "abitiamo al nono piano",
+      "english" : "we live on the ninth floor"
+    }
+  ],
+
+  "months": [
+    {
+      "italian": "gennaio",
+      "english" : "January"
+    },
+    {
+      "italian": "febbraio",
+      "english" : "February"
+    },
+    {
+      "italian": "marzo",
+      "english" : "March"
+    },
+    {
+      "italian": "aprile",
+      "english" : "April"
+    },
+    {
+      "italian": "maggio",
+      "english" : "May"
+    },
+    {
+      "italian": "giugno",
+      "english" : "June"
+    },
+    {
+      "italian": "luglio",
+      "english" : "July"
+    },
+    {
+      "italian": "agosto",
+      "english" : "August"
+    },
+    {
+      "italian": "settembre",
+      "english" : "September"
+    },
+    {
+      "italian": "ottobre",
+      "english" : "October"
+    },
+    {
+      "italian": "novembre",
+      "english" : "November"
+    },
+    {
+      "italian": "dicembre",
+      "english" : "December"
+    }
+  ],
+
+  "seasons": [
+    {
+      "italian": "primavera",
+      "english": "spring"
+    },
+    {
+      "italian": "estate",
+      "english": "summer"
+    },
+    {
+      "italian": "autunno",
+      "english": "autumn"
+    },
+    {
+      "italian": "inverno",
+      "english": "winter"
+    },
+    {
+      "italian": "umido",
+      "english": "humid"
+    },
+    {
+      "italian": "tempo incerto",
+      "english": "uncertain weather"
+    },
+    {
+      "italian": "nebbia",
+      "english": "fog"
+    },
+    {
+      "italian": "mite",
+      "english": "mild"
+    },
+    {
+      "italian": "visibilità",
+      "english": "visibility"
+    },
+    {
+      "italian": "piove",
+      "english": "it's raining"
+    }
+  ],
+
+  "time": [
+    {
+      "italian": "giorno / mese / anno",
+      "english" : "day / month / year"
+    },
+    {
+      "italian": "giorni / mesi / anni",
+      "english" : "days / months / years"
+    },
+    {
+      "italian": "oggi",
+      "english" : "today"
+    },
+    {
+      "italian": "domani",
+      "english" : "tomorrow"
+    },
+    {
+      "italian": "dopodomani",
+      "english" : "day after tomorrow"
+    },
+    {
+      "italian": "ieri",
+      "english" : "yesterday"
+    },
+    {
+      "italian": "l'altro ieri",
+      "english" : "day before yesterday"
+    },
+    {
+      "italian": "quando",
+      "english" : "when"
+    },
+    {
+      "italian": "che giorno è oggi?",
+      "english" : "what day is today/what's today's date?"
+    },
+    {
+      "italian": "quanti ne abbiamo oggi?",
+      "english" : "what's today's date?"
+    },
+    {
+      "italian": "oggi è il dieci aprile duemilaquindici",
+      "english" : "today is April 10, 2015"
+    },
+    {
+      "italian": "quando parti per la Italia?",
+      "english" : "when do you depart for Italy?"
+    },
+    {
+      "italian": "sono nato il trentuno maggio millenovecentoottantuno",
+      "english" : "I was born May 31 1981"
+    },
+    {
+      "italian": "che ora è? / che ore sono?",
+      "english" : "what time is it?"
+    },
+    {
+      "italian": "è l'una",
+      "english" : "it's one o'clock"
+    },
+    {
+      "italian": "è mezzogiorno",
+      "english" : "it's noon"
+    },
+    {
+      "italian": "sono le diciotto",
+      "english" : "it's 6 pm"
+    },
+    {
+      "italian": "e un quarto / e mezzo / e tre quarti",
+      "english" : "a quarter past / half past / three quarters past"
+    },
+    {
+      "italian": "a che ora inizia la partita?",
+      "english" : "what time does the game begin?"
+    }
+  ]
+}
