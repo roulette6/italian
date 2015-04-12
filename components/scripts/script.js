@@ -33,5 +33,7 @@ function populateVerbs() {
         insertData(template, data.dare, '#dare');
         insertData(template, data.fare, '#fare');
         insertData(template, data.stare, '#stare');
+        insertData(template, data.venire, '#venire');
+        insertData(template, data.andare, '#andare');
     });
 }

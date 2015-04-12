@@ -9,12 +9,40 @@
     </head>
     <body>
         <script id="template" type="text/template">
-            <td>{{io}}</td>
-            <td>{{tu}}</td>
-            <td>{{lui_lei}}</td>
-            <td>{{noi}}</td>
-            <td>{{voi}}</td>
-            <td>{{loro}}</td>
+            <table class="table">
+                <thead>
+                    <tr class="active">
+                        <th>{{ verb }}</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>io</th>
+                        <td>{{ io }}</td>
+                    </tr>
+                    <tr>
+                        <th>tu</th>
+                        <td>{{ tu }}</td>
+                    </tr>
+                    <tr>
+                        <th>lui / lei</th>
+                        <td>{{ lui_lei }}</td>
+                    </tr>
+                    <tr>
+                        <th>noi</th>
+                        <td>{{ noi }}</td>
+                    </tr>
+                    <tr>
+                        <th>voi</th>
+                        <td>{{ voi }}</td>
+                    </tr>
+                    <tr>
+                        <th>loro</th>
+                        <td>{{ loro }}</td>
+                    </tr>
+                </tbody>
+            </table>
         </script>
 
         <ul class="nav nav-tabs">
@@ -32,33 +60,16 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-md-6">
-                    <div class="table-responsive">
-                        <table class="table table-striped">
-                            <thead>
-                                <tr>
-                                    <th>verb</th>
-                                    <th>io</th>
-                                    <th>tu</th>
-                                    <th>lui / lei</th>
-                                    <th>noi</th>
-                                    <th>voi</th>
-                                    <th>loro</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr id="dare">
-                                    <th>dare</th>
-                                </tr>
-                                <tr id="fare">
-                                    <th>fare</th>
-                                </tr>
-                                <tr id="stare">
-                                    <th>stare</th>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
+                <div class="col-sm-12 col-md-4">
+                    <div id="dare" class="table-responsive"></div>
+                    <div id="venire" class="table-responsive"></div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div id="fare" class="table-responsive"></div>
+                    <div id="andare" class="table-responsive"></div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div id="stare" class="table-responsive"></div>
                 </div>
             </div>
         </div>

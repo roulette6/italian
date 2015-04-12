@@ -1,5 +1,6 @@
 {
   "dare": {
+      "verb": "dare: to give",
       "io": "do",
       "tu": "dai",
       "lui_lei": "da",
@@ -8,6 +9,7 @@
       "loro": "danno"
     },
   "fare": {
+      "verb": "fare: to do or make",
       "io": "faccio",
       "tu": "fai",
       "lui_lei": "fa",
@@ -16,11 +18,30 @@
       "loro": "fanno"
   },
   "stare": {
+      "verb": "stare: to be or stay",
       "io": "sto",
       "tu": "stai",
       "lui_lei": "sta",
       "noi": "stiamo",
       "voi": "state",
       "loro": "stanno"
+  },
+  "venire": {
+    "verb": "venire: to come",
+    "io": "vengo",
+    "tu": "vieni",
+    "lui_lei": "viene",
+    "noi": "veniamo",
+    "voi": "venite",
+    "loro": "vengono"
+  },
+  "andare": {
+    "verb": "andare: to go",
+    "io": "vado",
+    "tu": "vai",
+    "lui_lei": "va",
+    "noi": "andiamo",
+    "voi": "andate",
+    "loro": "vanno"
   }
 }
