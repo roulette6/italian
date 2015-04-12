@@ -35,5 +35,8 @@ function populateVerbs() {
         insertData(template, data.stare, '#stare');
         insertData(template, data.venire, '#venire');
         insertData(template, data.andare, '#andare');
+        insertData(template, data.volere, '#volere');
+        insertData(template, data.dovere, '#dovere');
+        insertData(template, data.potere, '#potere');
     });
 }

@@ -43,5 +43,32 @@
     "noi": "andiamo",
     "voi": "andate",
     "loro": "vanno"
+  },
+  "volere": {
+    "verb": "volere: to want",
+    "io": "voglio",
+    "tu": "vuoi",
+    "lui_lei": "vuole",
+    "noi": "vogliamo",
+    "voi": "volete",
+    "loro": "vogliono"
+  },
+  "dovere": {
+    "verb": "dovere: to need to, have to, must, should",
+    "io": "devo",
+    "tu": "devi",
+    "lui_lei": "deve",
+    "noi": "dobbiamo",
+    "voi": "dovete",
+    "loro": "devono"
+  },
+  "potere": {
+    "verb": "potere: to be able to, can, may",
+    "io": "posso",
+    "tu": "puoi",
+    "lui_lei": "può",
+    "noi": "possiamo",
+    "voi": "potete",
+    "loro": "possono"
   }
 }
